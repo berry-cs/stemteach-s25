@@ -36,6 +36,14 @@ marp: true
 
 ---
 
+
+[Jonah Hill Breaks Down the Math Behind Baseball | MONEYBALL](https://www.youtube.com/watch?v=IKD-7WJ4U5M)
+
+# [▶️ (1:30-3:30)](https://vizard.ai/share?code=7GbwJ4&susId=6766812)
+
+
+---
+
 # Real-World Applications
 
 <details><summary>Sports</summary>
