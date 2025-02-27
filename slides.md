@@ -98,7 +98,7 @@ What data is collected?
         - Click "***URL***" 
         - Enter:
 
-***https://cs.berry.edu/stemteach/teams.csv***
+***https://cs.berry.edu/stemteach-s25/teams.csv***
 
 
 ---
