@@ -105,7 +105,7 @@ What data is collected?
 
 # Data Table & Schema
 
-[Teams Table Schema handout](./teams-schema.md)
+[Teams Table Schema handout](./teams-schema.pdf)
 
 - How many rows are there?
 - What range of years is in the data?
@@ -126,27 +126,21 @@ What data is collected?
 </details>
 
 <details>
-<summary>
-Is there a correlation between **runs scored** and number of **wins**?
-</summary>
+<summary>Is there a correlation between runs scored and number of wins?</summary>
 
 - Add "R" to the x-axis (bottom)
 - Add "W" to the y-axis (left)
 </details>
 
 <details>
-<summary>
-Has the trend changed over time?
-</summary>
+<summary>Has the trend changed over time?</summary>
 
 - Drag the "yearId" column header from the table onto the main graph area.
 - Anything interesting?
 </details>
 
 <details>
-<summary>
-"Best fit" line
-</summary>
+<summary>"Best fit" line</summary>
 
 - Click the ruler --> choose "Least Squares Line"
 </details>
@@ -158,8 +152,9 @@ Has the trend changed over time?
 - Brainstorm questions you could ask about the data 
     - Refer to the table schema
 
-- Make a graph in CODAP
-    - What do you find?
+- Make a graph in CODAP to explore those questions
+
+- Share: what do you find?
 
 ---
 
@@ -168,3 +163,4 @@ Has the trend changed over time?
 ![](./analytics-process.png)
 
 > https://medium.com/codex/life-cycle-of-a-data-analytics-project-954d0e6926fe
+
