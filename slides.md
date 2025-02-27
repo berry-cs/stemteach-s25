@@ -87,7 +87,7 @@ What data is collected?
 </details>
 
 ---
-![bg right:40% fit](./codap-1.png)
+![bg right:35% fit](./codap-1.png)
 
 # Let's Go!
 
